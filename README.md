@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning SQL, Python, Tableau, Statistics for Data Analysis
+📫 How to reach me: sooheeoh@gmail.com
+
 <!--
 **sooheeoh/sooheeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
