@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning SQL, Python, Tableau, Statistics for Data Analysis
+🌱 I’m currently learning SQL, Python, Tableau, Statistics for Data Analysis <br>
 📫 How to reach me: sooheeoh@gmail.com
 
 <!--
